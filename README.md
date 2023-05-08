@@ -4,7 +4,7 @@ Reverse IP MD5 Hash Search is a program written in rust that accepts multiple MD
 
 ## Installation/Compilation
 
-Use the rust compiler [cargo](https://pip.pypa.io/en/stable/) to compile Reverse IP MD5 Hash Search.
+Use the rust compiler [cargo](https://www.rust-lang.org/tools/install) to compile Reverse IP MD5 Hash Search.
 
 ```bash
 cargo build --release
